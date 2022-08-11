@@ -1,4 +1,8 @@
-# Void Filling of Digital Elevation Models with Deep Generative Models
+# THIS REPOSITORY IS A CLONE FROM konstantg W/ MINOR CHANGES TO DIRECTLY RUN THE CODE AND CLONE AN ERROR
+# ALL RIGHTS RESERVED TO THE CITED PERSONS BELOW:
+
+
+## Void Filling of Digital Elevation Models with Deep Generative Models
 
 This GitHub repository implements and evaluates the method described in the paper [1], which is an adaptation to the context of Digital Elevation Models (DEMs) from the method DeepFill described in [2]. In addition pre-trained models are provided, as well as the DEMs used for the evaluation of the method.
 
